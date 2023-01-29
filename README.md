@@ -1,3 +1,3 @@
-# infinite-scroll / unsplash API
+# infinite-scroll / unsplash api
 
 https://resident7709.github.io/infinite-scroll/
